@@ -17,8 +17,10 @@ inmobi-ios-sdk is available through [CocoaPods](https://cocoapods.org). To insta
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'inmobi-ios-sdk', :git => 'https://bitbucket.org/aerservllc/inmobi-ios-sdk-pod.git'
+pod 'inmobi-ios-sdk', :git => 'https://github.com/freezy7/inmobi-ios-sdk-pod.git'
 ```
+
+> inmobi github image, [the origin link click here https://bitbucket.org/aerservllc/inmobi-ios-sdk-pod.git](https://bitbucket.org/aerservllc/inmobi-ios-sdk-pod.git) 
 
 ## Author
 
