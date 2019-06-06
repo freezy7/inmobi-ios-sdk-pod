@@ -10,13 +10,11 @@ Pod::Spec.new do |s|
   s.name                  = 'inmobi-ios-sdk'
   s.version               = '8.1.0'
   s.summary               = 'InMobi + AerServ Unified SDK'
-  s.description           = <<-DESC
-InMobi + AerServ's Unified iOS SDK CocoPods Integration. Copyright 2018-2019 InMobi, all rights reserved.
-                            DESC
+  s.description           = 'InMobi + AerServs Unified iOS SDK CocoPods Integration. Copyright 2018-2019 InMobi, all rights reserved.'
   s.homepage              = 'https://bitbucket.org/aerservllc/inmobi-ios-sdk-pod'
   s.license               = { :type => 'MIT', :file => 'LICENSE' }
   s.author                = { 'Albert Zhu' => 'albert.zhu@inmobi.com' }
-  s.source                = { :git => 'https://github.com/freezy7/inmobi-ios-sdk-pod.git', :tag => s.version }
+  s.source                = { :git => 'https://github.com/freezy7/inmobi-ios-sdk-pod.git', :tag => s.version.to_s }
 
   s.platform              = :ios, '9.0'
   s.ios.deployment_target = '9.0'
