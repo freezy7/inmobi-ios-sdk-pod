@@ -16,7 +16,7 @@ InMobi + AerServ's Unified iOS SDK CocoPods Integration. Copyright 2018-2019 InM
   s.homepage              = 'https://bitbucket.org/aerservllc/inmobi-ios-sdk-pod'
   s.license               = { :type => 'MIT', :file => 'LICENSE' }
   s.author                = { 'Albert Zhu' => 'albert.zhu@inmobi.com' }
-  s.source                = { :git => 'https://bitbucket.org/aerservllc/inmobi-ios-sdk-pod.git', :tag => s.version }
+  s.source                = { :git => 'https://github.com/freezy7/inmobi-ios-sdk-pod.git', :tag => s.version }
 
   s.platform              = :ios, '9.0'
   s.ios.deployment_target = '9.0'
